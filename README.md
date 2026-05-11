@@ -1,6 +1,17 @@
-# inversion-data
-This repository contains the synthetic model, simulated MT responses, inversion parameters, and synthetic inversion results used in the manuscript:
+# Inversion Results for Hybrid Prior-Guided MT Inversion
 
-"A Hybrid Prior-Guided Framework for Magnetotelluric Inversion Constrained by Well-Log Data"
+This repository provides the inversion result files associated with the manuscript:
 
-The field MT data and well-log data are not included because they are subject to confidentiality restrictions.
+**A Hybrid Prior-Guided Framework for Magnetotelluric Inversion Constrained by Well-Log Data**
+
+## Contents
+
+This repository includes inversion results for two test datasets:
+
+- Synthetic test inversion results
+- Field-data application inversion results
+
+## Data Availability
+
+Only the inversion result files are provided in this repository. The original MT data, well-log data, training datasets, and full preprocessing workflow are not publicly available because of confidentiality restrictions and data-size limitations.
+
